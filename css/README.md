@@ -1,3 +1,8 @@
+# archaeonatural colours
+
+* ![#0a4f72](https://placehold.co/15x15/0a4f72/0a4f72.png) `#0a4f72`
+* ![#02425e](https://placehold.co/15x15/02425e/02425e.png) `#02425e`
+
 # N4O CD Colour Scheme
 
 * ![#13294B](https://placehold.co/15x15/13294B/13294B.png) `#13294B` - N4O Dunkelblau (Schriftfarbe)
